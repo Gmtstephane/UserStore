@@ -1,0 +1,11 @@
+database:
+  name: "user_db"
+  user_name: "postgres"
+  uri: "localhost"
+  port: 5432
+  password: "password"
+redis:
+  uri: "localhost"
+  port: 6379
+
+    
